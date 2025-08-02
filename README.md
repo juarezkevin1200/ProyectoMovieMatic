@@ -1,10 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Proyecciones Peliculas</title>
-  </head>
+
   <body>
     <h1>Pasos para ejecutar el Proyecto:</h1>
     <ul>
@@ -17,4 +11,3 @@
 
     </ul>
   </body>
-</html>
