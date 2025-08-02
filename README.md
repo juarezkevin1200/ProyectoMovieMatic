@@ -8,6 +8,4 @@
       <li>Si no aparece el conector de mysql-8.0.jar lo puedes agregar de dist/lib </li>
       <li>Correr el archivo principal, Proyecciones_Peliculas.java</li>
       <li>Disfrutar el programa, y si no te gusta, haz los ambios que quier :3</li>
-
-    </ul>
   </body>
